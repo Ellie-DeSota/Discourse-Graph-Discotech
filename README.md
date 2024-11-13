@@ -3,6 +3,11 @@
 Welcome to our discotech gallery. Over one weekend, we gathered to build on the Discourse Graph format to expand the number of people involved. 
 
 ## Here's what we built
+https://github.com/pastarita/paperpilot
+
+https://github.com/Soulemane12/Research-Paper-Analysis-Tool
+
+More to come! 
 
 ## The problem
 
