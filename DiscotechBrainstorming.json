@@ -1,0 +1,167 @@
+[
+   {
+      "id":1,
+      "text":"Gov2Gov\nA data type that does not accept two mutually exclusive state ments.",
+      "name":null
+   },
+   {
+      "id":2,
+      "text":"Gov2Gov But for LLM\nIs A tool that an LM can use to collect evidence and solve for detective req games",
+      "name":null
+   },
+   {
+      "id":3,
+      "text":"DEPOSITION CONTRADICTION FINDER\nDC",
+      "name":null
+   },
+   {
+      "id":4,
+      "text":"Intends of primary connotations\naming among Research Papers\n(eg: medications for rheumatold)",
+      "name":"Iris"
+   },
+   {
+      "id":5,
+      "text":"Sam D\nChrome Extension To DAGify\na page (w/LLM)",
+      "name":"Sam D"
+   },
+   {
+      "id":6,
+      "text":"How can we improve the knowledge removal/access system that downs primarily rely on agency and luck?",
+      "name":"Madhav"
+   },
+   {
+      "id":7,
+      "text":"SERER\nContext broker agent",
+      "name":null
+   },
+   {
+      "id":8,
+      "text":"Sam B\nDiscuss Cof a PH Super network (consistr, social network)",
+      "name":"Sam B"
+   },
+   {
+      "id":9,
+      "text":"NATALIA\n11/08/2023\nMIN DISCOURSE\nGRAPH IDEA\nS (RESEARCH)\n-Key words\n-combining key words to make discourse areas from disparate areas.\nChicken\nDinosaur\nHorse\nChicken mindset",
+      "name":"Natalia"
+   },
+   {
+      "id":10,
+      "text":"DEBATE SOCIETY\nDC",
+      "name":null
+   },
+   {
+      "id":11,
+      "text":"PODCAST ZEITGEIST podcast hosts conversation, formal analysis, Fact Checker - by DC",
+      "name":null
+   },
+   {
+      "id":12,
+      "text":"Health Research: how to get details without losing nuance. Context is everything.",
+      "name":"DK"
+   },
+   {
+      "id":13,
+      "text":"Health Research: Quality of data? Do they already do this to a sufficient degree? \n<-- Using graphs to show strength of each path independent of specific question input? --DK",
+      "name":"DK"
+   },
+   {
+      "id":14,
+      "text":"Saien\nA schema for a knowledge graph of everything…\nA dynamic schema?",
+      "name":"Saien"
+   },
+   {
+      "id":15,
+      "text":"Reduced forms and equivalence classes for discourse graphs (mathematical)",
+      "name":"IZ"
+   },
+   {
+      "id":16,
+      "text":"Kent\nDISCOURSE GRAPHS\n+ RAG (lotta?)\nmany agents",
+      "name":"Kent"
+   },
+   {
+      "id":17,
+      "text":"LLM based learning tools using discourse graphs?\nRASHIK",
+      "name":"Rashik"
+   },
+   {
+      "id":18,
+      "text":"Gov2Gov:\nAn analytic workflow that fills a data box with entities, properties, and relations by reading through research papers.",
+      "name":null
+   },
+   {
+      "id":19,
+      "text":"Alba\nIngesting argument papers into a graph & dec if any logical flow (GNN) can learn it",
+      "name":"Alba"
+   },
+   {
+      "id":20,
+      "text":"Compiling content to Prolog or another symbolic reasoning programming language.",
+      "name":null
+   },
+   {
+      "id":21,
+      "text":"BREAK RESEARCH PAPERS DOWN INTO DISCOURSE GRAPH CHUNKS",
+      "name":null
+   },
+   {
+      "id":22,
+      "text":"An autonomously updating graph for a given research group that incorporates new, likely relevant publications based on a seed set.",
+      "name":null
+   },
+   {
+      "id":23,
+      "text":"A fastest path to competency workflow for any given concept\nEZ :)",
+      "name":"Erika"
+   },
+   {
+      "id":24,
+      "text":"DGT (Shushrut)\ndiscourse tree with root as base idea and leaf as new ideas",
+      "name":"(Shushrut)"
+   },
+   {
+      "id":25,
+      "text":"Critically read and write CS papers",
+      "name":"Dantev"
+   },
+   {
+      "id":26,
+      "text":"THEORY OF THE FIRM : PAPERS\nARTISANS : CLAIMS\n-Alexey",
+      "name":"Alexey"
+   },
+   {
+      "id":27,
+      "text":"Sparse paper manuscript: identify unsupported claims. Clipr and Wikipedia stub warning and suggest good citations.\n-Dan",
+      "name":"Dan"
+   },
+   {
+      "id":28,
+      "text":"1) can you stuff whole subgraph into LLM context to give high level overview\n+ diffrent learning entrypoints\nAlex Flores",
+      "name":"Alex Flores"
+   },
+   {
+      "id":29,
+      "text":"0 Python Initializer Graph creation\n1 asserts 1 graph\n1 sub-paper\ng assert 1 paper connected per 'subpaper', sub-graph\nAlex Flores",
+      "name":"Alex Flores"
+   },
+   {
+      "id":30,
+      "text":"CURLJ\nCASCADE UNIVERSAL ENRICHMENT LANGUAGE for JSON\nPA",
+      "name":"PA"
+   },
+   {
+      "id":31,
+      "text":"NEURDIO DISCOURSE COORDINATION COMPLEX\nPA",
+      "name":"PA"
+   },
+   {
+      "id":32,
+      "text":"NUEROIDS\nPA",
+      "name":"PA"
+   },
+   {
+      "id":33,
+      "text":"2-COUNTERPOINT TO DISCOURSE VISUALIZATION, RELATIVE TO A SPECIFIC NUBERO\nPA",
+      "name":"PA"
+   }
+]
