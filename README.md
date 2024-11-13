@@ -3,11 +3,15 @@
 Welcome to our discotech gallery. Over one weekend, we gathered to build on the Discourse Graph format to expand the number of people involved. 
 
 ## Here's what we built
-https://github.com/pastarita/paperpilot
+[PaperPilot](https://github.com/pastarita/paperpilot)
 
-https://github.com/Soulemane12/Research-Paper-Analysis-Tool
+[Research Paper Analysis Tool](https://github.com/Soulemane12/Research-Paper-Analysis-Tool)
 
-More to come! 
+[Coherentism](https://github.com/erika-bytes/coherentism)
+
+SugarGraph
+
+An audatious pitch for Version 2... in the process of being pitched
 
 ## The problem
 
