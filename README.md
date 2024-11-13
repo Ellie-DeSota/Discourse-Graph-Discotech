@@ -2,7 +2,11 @@
 
 Welcome to our discotech gallery. Over one weekend, we gathered to build on the Discourse Graph format to expand the number of people involved. 
 
-## Here's what we built
+## What happened
+Over three days, we gathered at [fractal tech hub](https://fractalbootcamp.com/office) to build with researchers, artists, and coders. We kicked the first night off by collecting all the ways we thought we might be able to use the discourse graph framework to build tools, experiences, or processes that supported the research ecosystem. 
+
+From there we gathered into project teams and built together for the rest of the weekend. 
+
 [PaperPilot](https://github.com/pastarita/paperpilot)
 
 [Research Paper Analysis Tool](https://github.com/Soulemane12/Research-Paper-Analysis-Tool)
@@ -11,9 +15,11 @@ Welcome to our discotech gallery. Over one weekend, we gathered to build on the 
 
 SugarGraph
 
+[Our collective resource doc](https://docs.google.com/document/d/1Abgz7alEfHS_4aglLAMYHB7zYE2rbe3sCEcn-sP2GsY/edit?tab=t.0)
+
 An audatious pitch for Version 2... in the process of being pitched
 
-## The problem
+## Background
 
 Making sense of the state of the art in scientific literature (let alone contributing to it) is a cumbersome and faulty exercise. Most of the world’s domain knowledge is scattered across the web as PDFs, living who knows where and containing who knows what. How can we better “read the literature” and connect the dots between ideas?
 
@@ -23,5 +29,12 @@ Making sense of the state of the art in scientific literature (let alone contrib
 
 ​With the help of embedding models, large language models, and natural language interfaces, we are setting out to build tools that create these graphs and help researchers engage with them…so that we can all get more out of the literature!
 
-## What happened
-Over three days, we gathered at [fractal tech hub]{https://fractalbootcamp.com/office} to build with researchers, artists, and coders. We kicked the first night off by collecting all the ways we thought we might be able to build tools 
+## What Comes Next
+
+Every other Monday at 1pm EST, we have a standing working group call where we focus on how we can automate researcher workflows and discourse graphs. If you want to join (regardless of schedule conflicts), email me at ellie@scios.tech, or [join this discord](https://discord.gg/jEEnapRF) and ping me in the Automated Metadata channel. 
+
+We'll update you here on version two!
+
+## Sponsors
+We were supported by [DeSci Labs](desci.com) and the [fractal tech hub](https://fractalbootcamp.com/office) to make this happen. Thank you so much! 
+
